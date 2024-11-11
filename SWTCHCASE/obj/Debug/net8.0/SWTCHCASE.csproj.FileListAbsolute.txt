@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\bin\Debug\net8.0\SWTCHCASE.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\bin\Debug\net8.0\SWTCHCASE.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\bin\Debug\net8.0\SWTCHCASE.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\bin\Debug\net8.0\SWTCHCASE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\bin\Debug\net8.0\SWTCHCASE.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\refint\SWTCHCASE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\SWTCHCASE.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SWTCHCASE\obj\Debug\net8.0\ref\SWTCHCASE.dll

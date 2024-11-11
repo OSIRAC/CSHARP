@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\bin\Debug\net8.0\IF.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\bin\Debug\net8.0\IF.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\bin\Debug\net8.0\IF.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\bin\Debug\net8.0\IF.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\bin\Debug\net8.0\IF.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\refint\IF.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\IF.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\TRYCATCH\obj\Debug\net8.0\ref\IF.dll

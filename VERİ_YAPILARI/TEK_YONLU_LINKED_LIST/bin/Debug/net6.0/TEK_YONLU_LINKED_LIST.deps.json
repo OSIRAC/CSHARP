@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TEK_YONLU_LINKED_LIST/1.0.0": {
+        "runtime": {
+          "TEK_YONLU_LINKED_LIST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEK_YONLU_LINKED_LIST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

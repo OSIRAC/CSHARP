@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLTWR3d1XvltPM/ibG5crRyYOEOV/l8S5xfWs4wN0x8ZxxnT1TEaJTJTdIhcvUB5Bhl9ENWmzGfoMy90MiVgJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huseyin\\OneDrive\\Masaüstü\\CSARP\\ALGORITMACALISMASI2\\ALGORITMACALISMASI2\\ALGORITMACALISMASI2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huseyin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Huseyin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\bin\Debug\net6.0\GENERİCS.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\bin\Debug\net6.0\GENERİCS.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\bin\Debug\net6.0\GENERİCS.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\bin\Debug\net6.0\GENERİCS.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\bin\Debug\net6.0\GENERİCS.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\refint\GENERİCS.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\GENERİCS.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\GENERİCS\GENERİCS\obj\Debug\net6.0\ref\GENERİCS.dll

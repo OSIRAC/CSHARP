@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\bin\Debug\net6.0\INTERFACE.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\bin\Debug\net6.0\INTERFACE.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\bin\Debug\net6.0\INTERFACE.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\bin\Debug\net6.0\INTERFACE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\bin\Debug\net6.0\INTERFACE.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\refint\INTERFACE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\INTERFACE.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INTERFACE\INTERFACE\obj\Debug\net6.0\ref\INTERFACE.dll

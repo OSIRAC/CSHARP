@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\bin\Debug\net8.0\FOREACH.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\bin\Debug\net8.0\FOREACH.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\bin\Debug\net8.0\FOREACH.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\bin\Debug\net8.0\FOREACH.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\bin\Debug\net8.0\FOREACH.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\refint\FOREACH.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\FOREACH.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\FOREACH\obj\Debug\net8.0\ref\FOREACH.dll

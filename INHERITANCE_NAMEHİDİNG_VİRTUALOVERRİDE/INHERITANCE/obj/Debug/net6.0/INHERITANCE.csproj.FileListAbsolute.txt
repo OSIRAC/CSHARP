@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\bin\Debug\net6.0\INHERITANCE.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\bin\Debug\net6.0\INHERITANCE.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\bin\Debug\net6.0\INHERITANCE.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\bin\Debug\net6.0\INHERITANCE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\bin\Debug\net6.0\INHERITANCE.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\refint\INHERITANCE.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\INHERITANCE.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\INHERITANCE\INHERITANCE\obj\Debug\net6.0\ref\INHERITANCE.dll

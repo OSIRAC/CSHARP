@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\bin\Debug\net8.0\DIZI.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\bin\Debug\net8.0\DIZI.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\bin\Debug\net8.0\DIZI.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\bin\Debug\net8.0\DIZI.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\bin\Debug\net8.0\DIZI.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\refint\DIZI.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\DIZI.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\DIZI\obj\Debug\net8.0\ref\DIZI.dll

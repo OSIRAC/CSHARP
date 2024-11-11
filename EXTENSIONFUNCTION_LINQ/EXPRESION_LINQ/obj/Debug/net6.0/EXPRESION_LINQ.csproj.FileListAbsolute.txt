@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\bin\Debug\net6.0\EXPRESION_LINQ.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\bin\Debug\net6.0\EXPRESION_LINQ.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\bin\Debug\net6.0\EXPRESION_LINQ.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\bin\Debug\net6.0\EXPRESION_LINQ.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\bin\Debug\net6.0\EXPRESION_LINQ.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\refint\EXPRESION_LINQ.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\EXPRESION_LINQ.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESION_LINQ\EXPRESION_LINQ\obj\Debug\net6.0\ref\EXPRESION_LINQ.dll

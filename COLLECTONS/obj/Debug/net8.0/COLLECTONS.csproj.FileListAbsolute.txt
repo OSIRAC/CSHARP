@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\bin\Debug\net8.0\COLLECTONS.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\bin\Debug\net8.0\COLLECTONS.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\bin\Debug\net8.0\COLLECTONS.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\bin\Debug\net8.0\COLLECTONS.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\bin\Debug\net8.0\COLLECTONS.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\refint\COLLECTONS.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\COLLECTONS.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\COLLECTONS\obj\Debug\net8.0\ref\COLLECTONS.dll

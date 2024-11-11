@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\bin\Debug\net6.0\POLIMORFIZM.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\bin\Debug\net6.0\POLIMORFIZM.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\bin\Debug\net6.0\POLIMORFIZM.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\bin\Debug\net6.0\POLIMORFIZM.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\bin\Debug\net6.0\POLIMORFIZM.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\refint\POLIMORFIZM.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\POLIMORFIZM.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\POLIMORFIZM\POLIMORFIZM\obj\Debug\net6.0\ref\POLIMORFIZM.dll

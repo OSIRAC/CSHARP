@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\bin\Debug\net6.0\SPECİALEXCEPTİON.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\bin\Debug\net6.0\SPECİALEXCEPTİON.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\bin\Debug\net6.0\SPECİALEXCEPTİON.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\bin\Debug\net6.0\SPECİALEXCEPTİON.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\bin\Debug\net6.0\SPECİALEXCEPTİON.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\refint\SPECİALEXCEPTİON.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\SPECİALEXCEPTİON.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\SPECİALEXCEPTİON\SPECİALEXCEPTİON\obj\Debug\net6.0\ref\SPECİALEXCEPTİON.dll

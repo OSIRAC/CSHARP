@@ -1,0 +1,14 @@
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\bin\Debug\net6.0\EXPRESSION.exe
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\bin\Debug\net6.0\EXPRESSION.deps.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\bin\Debug\net6.0\EXPRESSION.runtimeconfig.json
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\bin\Debug\net6.0\EXPRESSION.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\bin\Debug\net6.0\EXPRESSION.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.AssemblyInfoInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.AssemblyInfo.cs
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\refint\EXPRESSION.dll
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.pdb
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\EXPRESSION.genruntimeconfig.cache
+C:\Users\Huseyin\OneDrive\Masaüstü\CSARP\EXPRESSION\EXPRESSION\obj\Debug\net6.0\ref\EXPRESSION.dll
